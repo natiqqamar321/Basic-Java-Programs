@@ -10,5 +10,5 @@ package programms;
  * @author pasha
  */
 public class fabwdres {
-    
+  //this is comment messsage    
 }
